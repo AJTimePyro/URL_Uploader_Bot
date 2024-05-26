@@ -16,19 +16,19 @@
     "success_url" : "https://t.me/URL_UploaderAJ_Bot",
     "env" : {
         "BOT_TOKEN" : {
-            "description" : "Get From https://t.me/BotFather"
+            "description" : "7170743700:AAHaCqSvR72rm2Od-LQ1LEOheMRXofvQ0qY"
         },
         "API_ID" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "27396410"
         },
         "API_HASH" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "175dd5dc67ce353d41d7aefd5a104d9c"
         },
         "MONGO_STR" : {
             "description" : "Get from MongoDB Atlas."
         },
         "OWNER_ID" : {
-            "description" : "Your(owner's) telegram id"
+            "description" : "1983064481"
         }
     },
     "stack" : "heroku-20",
